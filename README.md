@@ -20,7 +20,7 @@ Terminalden "npm i" yazarak modülleri indiriniz
 
  <img width="450" alt="image" src="https://cdn.discordapp.com/attachments/1207066751733338225/1208865367284252762/Ekran_Resmi_2024-02-18_22.58.56.png?ex=65e4d69b&is=65d2619b&hm=3859d0852ad9350997223c944a967913e3b5c2a00ba441323175c10877881b40&">
 
- <img width="450" alt="image" src="https://cdn.discordapp.com/attachments/1207066751733338225/1208866090290253956/Ekran_Resmi_2024-02-18_22.59.29.png?ex=65e4d747&is=65d26247&hm=e3eb13f41d75d9f972b5d884117aeb4a59517c87d99dffc85d426a1975424a51&">
+ 
 
 
  <img width="450" alt="image" src="https://cdn.discordapp.com/attachments/1207066751733338225/1208866090613080125/Ekran_Resmi_2024-02-18_22.59.57.png?ex=65e4d747&is=65d26247&hm=01eaec627773d2a55eea7b831e3445af472adeaeecb9795fd2ee75c8e5b18ede&">
