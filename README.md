@@ -11,12 +11,14 @@
 
 Terminalden "npm i" yazarak modülleri indiriniz
 
-"Terminale node ." yazıp çalıştırınız ve  bu kadar, işte şuanda türkiyenin en iyi ekonomi botunu kurmuş bulunmaktasın iyi kullanımlar :D
+"Terminale node ." yazıp çalıştırınız ve  bu kadar Geliştirip Kullanın :D
 ```
 
 **Bize ulaşabileceğiniz sosyal medya bilgilerimiz:**
 
  [![Discord](https://lanyard.cnrad.dev/api/693185687758962698)](https://discord.com/users/693185687758962698)
+ [![Discord](https://lanyard.cnrad.dev/api/136619876407050240)](https://discord.com/users/136619876407050240)
+ [![Discord](https://lanyard.cnrad.dev/api/1179280051443867728)](https://discord.com/users/1179280051443867728)
 
 
 # 📷 Bazı Görüntüler
